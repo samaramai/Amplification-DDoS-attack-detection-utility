@@ -1,4 +1,4 @@
-# Amplification DDoS attack detection utility
+# Amplification DDoS Attack Detection Utility
 This project is a simple Linux utility, which detects the following attacks:
 - Amplification-based DDoS attacks
 - Port scanning
